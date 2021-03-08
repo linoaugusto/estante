@@ -1,0 +1,2 @@
+com/example/exemplogradle/ExemploGradleApplicationTests.java
+ com.example.exemplogradle.ExemploGradleApplicationTests
