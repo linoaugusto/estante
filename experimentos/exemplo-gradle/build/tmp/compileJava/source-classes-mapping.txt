@@ -1,29 +1,121 @@
 oo/part03/heranca/exemplo001/Veiculo.java
  aulas.oo.part03.heranca.exemplo001.Veiculo
+exerciciosSet/exercicioTreeSet.java
+ exerciciosSet.exercicioTreeSet
+aulasCollections/map/ExemploTreeMap.java
+ aulasCollections.map.ExemploTreeMap
 exercicioHeranca/Empresa.java
  exercicioHeranca.Empresa
+exerciciosDatas/calculaDataDePagamento.java
+ exerciciosDatas.calculaDataDePagamento
+oo/part03/heranca/exemplo003/Motocicleta.java
+ oo.part03.heranca.exemplo003.Motocicleta
+oo/part01/paradigma/exemplo001/ExemploInstanciaObjeto.java
+ oo.part01.paradigma.exemplo001.ExemploInstanciaObjeto
+aulasCollections/comparators/ComparatorsExampleList.java
+ aulasCollections.comparators.ComparatorsExampleList
+oo/part04/exemploEquals/exemplo002/Veiculo.java
+ aulas.oo.part04.exemploEquals.exemplo002.Veiculo
+exercicios/Barco.java
+ exercicios.Barco
+oo/part03/heranca/exemplo001/Exemplo001.java
+ aulas.oo.part03.heranca.exemplo001.Exemplo001
+aulasCollections/map/ExemploHashMap.java
+ aulasCollections.map.ExemploHashMap
+trabalhandoComDatas/javaCalendar/Exemplo007.java
+ aulas.trabalhandoComDatas.javaCalendar.Exemplo007
+exercicioCarros/LojaDeCarros.java
+ exercicioCarros.LojaDeCarros
+oo/part03/encapsulamento/exemplo001/Exemplo001.java
+ oo.part03.encapsulamento.exemplo001.Exemplo001
+exerciciosSet/exercicioHashSet.java
+ exerciciosSet.exercicioHashSet
+desafiosDioEtapaUm/imprimeImparesDio.java
+ desafiosDioEtapaUm.imprimeImparesDio
+aulasCollections/comparators/EstudanteOrdemIdadeReversaComparator.java
+ aulasCollections.comparators.EstudanteOrdemIdadeReversaComparator
+aulasCollections/stream/ExemploStreamAPI.java
+ aulasCollections.stream.ExemploStreamAPI
+exerciciosCollections/exercicioArrayList.java
+ exerciciosCollections.exercicioArrayList
+oo/part01/paradigma/exemplo001/ExemploMetodos.java
+ oo.part01.paradigma.exemplo001.ExemploMetodos
+exercicioMaps/TreeMap.java
+ exercicioMaps.TreeMap
+oo/part04/exemploEquals/exemplo002/Exemplo002.java
+ aulas.oo.part04.exemploEquals.exemplo002.Exemplo002
+trabalhandoComDatas/javaCalendar/Exemplo006.java
+ aulas.trabalhandoComDatas.javaCalendar.Exemplo006
+aulasCollections/queue/ExemploLinkedList.java
+ aulasCollections.queue.ExemploLinkedList
+oo/part04/exemploHashCode/Veiculo.java
+ aulas.oo.part04.exemploHashCode.Veiculo
+oo/part04/exemploEquals/exemplo002/Carro.java
+ aulas.oo.part04.exemploEquals.exemplo002.Carro
+exerciciosDatas/adicionaTempo.java
+ exerciciosDatas.adicionaTempo
+trabalhandoComDatas/javaLocalDate/Exemplo014.java
+ aulas.trabalhandoComDatas.javaLocalDate.Exemplo014
+aulasCollections/optionals/ExemploOtionalPrimitivos.java
+ aulasCollections.optionals.ExemploOtionalPrimitivos
+exerciciosCollections/exerciciosQueue.java
+ exerciciosCollections.exerciciosQueue
+oo/part04/exemploHashCode/Exemplo002.java
+ aulas.oo.part04.exemploHashCode.Exemplo002
+exercicioHeranca/Supervisor.java
+ exercicioHeranca.Supervisor
+oo/part03/heranca/exemplo002/Exemplo002.java
+ aulas.oo.part03.heranca.exemplo002.Exemplo002
+aulasCollections/set/ExemploLinkedHashSet.java
+ aulasCollections.set.ExemploLinkedHashSet
+oo/part04/exemploThis/Veiculo.java
+ aulas.oo.part04.exemploThis.Veiculo
+oo/part03/heranca/exemplo002/Carro.java
+ aulas.oo.part03.heranca.exemplo002.Carro
+oo/part04/exemploSuper/Veiculo.java
+ aulas.oo.part04.exemploSuper.Veiculo
+oo/part04/exemploHashCode/Carro.java
+ aulas.oo.part04.exemploHashCode.Carro
+exerciciosDatas/formataDataAtual.java
+ exerciciosDatas.formataDataAtual
+exerciciosDatas/comparaDataNascimento.java
+ exerciciosDatas.comparaDataNascimento
+oo/part02/construtores/exemplo001/ExemploInstanciaObjeto.java
+ aulas.oo.part02.construtores.exemplo001.ExemploInstanciaObjeto
+oo/part03/heranca/exemplo001/Motocicleta.java
+ aulas.oo.part03.heranca.exemplo001.Motocicleta
+oo/part03/heranca/exemplo001/Carro.java
+ aulas.oo.part03.heranca.exemplo001.Carro
+oo/part04/exemploThis/Carro.java
+ aulas.oo.part04.exemploThis.Carro
+exercicios/Porto.java
+ exercicios.Porto
+trabalhandoComDatas/javaDate/Exemplo001.java
+ aulas.trabalhandoComDatas.javaDate.Exemplo001
+desafiosDioEtapaUm/multiplicacaoDio.java
+ desafiosDioEtapaUm.multiplicacaoDio
+aulasCollections/set/ExemploTreeSet.java
+ aulasCollections.set.ExemploTreeSet
+trabalhandoComDatas/javaDate/Exemplo004.java
+ aulas.trabalhandoComDatas.javaDate.Exemplo004
 oo/part04/exemploSuper/Carro.java
  aulas.oo.part04.exemploSuper.Carro
 oo/part03/heranca/exemplo003/Veiculo.java
  oo.part03.heranca.exemplo003.Veiculo
-oo/part03/heranca/exemplo003/Motocicleta.java
- oo.part03.heranca.exemplo003.Motocicleta
 trabalhandoComDatas/javaDate/Exemplo005.java
  aulas.trabalhandoComDatas.javaDate.Exemplo005
 oo/part03/heranca/exemplo003/Carro.java
  oo.part03.heranca.exemplo003.Carro
-oo/part04/exemploEquals/exemplo002/Exemplo002.java
- aulas.oo.part04.exemploEquals.exemplo002.Exemplo002
-oo/part01/paradigma/exemplo001/ExemploInstanciaObjeto.java
- oo.part01.paradigma.exemplo001.ExemploInstanciaObjeto
-oo/part04/exemploEquals/exemplo001/Exemplo001.java
- aulas.oo.part04.exemploEquals.exemplo001.Exemplo001
-oo/part04/exemploEquals/exemplo002/Veiculo.java
- aulas.oo.part04.exemploEquals.exemplo002.Veiculo
+exercicioHeranca/Funcionario.java
+ exercicioHeranca.Funcionario
+exercicioHeranca/Gerente.java
+ exercicioHeranca.Gerente
+aulasCollections/list/ExemploVector.java
+ aulasCollections.list.ExemploVector
 trabalhandoComDatas/javaLocalDate/Exemplo011.java
  aulas.trabalhandoComDatas.javaLocalDate.Exemplo011
-exercicios/Barco.java
- exercicios.Barco
+desafiosDioEtapaUm/menorElementoDoVetorDio.java
+ desafiosDioEtapaUm.menorElementoDoVetorDio
 com/example/exemplogradle/ExemploGradleApplication.java
  com.example.exemplogradle.ExemploGradleApplication
 trabalhandoComDatas/javaLocalDate/Exemplo010.java
@@ -36,91 +128,73 @@ oo/part01/paradigma/exemplo001/Pessoa.java
  oo.part01.paradigma.exemplo001.Pessoa
 oo/part03/heranca/exemplo002/Motocicleta.java
  aulas.oo.part03.heranca.exemplo002.Motocicleta
+aulasCollections/list/ExemploArrayList.java
+ aulasCollections.list.ExemploArrayList
+aulasCollections/map/ExemploHashTable.java
+ aulasCollections.map.ExemploHashTable
 oo/part02/construtores/exemplo003/Pessoa.java
  aulas.oo.part02.construtores.exemplo003.Pessoa
 oo/part04/exemploEquals/exemplo001/Carro.java
  aulas.oo.part04.exemploEquals.exemplo001.Carro
-oo/part03/heranca/exemplo001/Exemplo001.java
- aulas.oo.part03.heranca.exemplo001.Exemplo001
-trabalhandoComDatas/javaCalendar/Exemplo007.java
- aulas.trabalhandoComDatas.javaCalendar.Exemplo007
 trabalhandoComDatas/javaDate/Exemplo003.java
  aulas.trabalhandoComDatas.javaDate.Exemplo003
 oo/part02/construtores/exemplo001/Pessoa.java
  aulas.oo.part02.construtores.exemplo001.Pessoa
 trabalhandoComDatas/javaDateFormat/Exemplo009.java
  aulas.trabalhandoComDatas.javaDateFormat.Exemplo009
-exercicioCarros/LojaDeCarros.java
- exercicioCarros.LojaDeCarros
 oo/part04/exemploThis/Motocicleta.java
  aulas.oo.part04.exemploThis.Motocicleta
-oo/part03/encapsulamento/exemplo001/Exemplo001.java
- oo.part03.encapsulamento.exemplo001.Exemplo001
 trabalhandoComDatas/javaDate/Exercicio001.java
  aulas.trabalhandoComDatas.javaDate.Exercicio001
+aulasCollections/optionals/ExemploOptional.java
+ aulasCollections.optionals.ExemploOptional
+aulasCollections/list/ExemploList.java
+ aulasCollections.list.ExemploList
+aulasCollections/set/ExemploHashSet.java
+ aulasCollections.set.ExemploHashSet
 trabalhandoComDatas/javaLocalDate/Exemplo012.java
  aulas.trabalhandoComDatas.javaLocalDate.Exemplo012
 oo/part02/construtores/exemplo002/ExemploInstanciaObjeto.java
  aulas.oo.part02.construtores.exemplo002.ExemploInstanciaObjeto
-oo/part01/paradigma/exemplo001/ExemploMetodos.java
- oo.part01.paradigma.exemplo001.ExemploMetodos
 oo/part02/construtores/exemplo003/ExemploInstanciaObjeto.java
  aulas.oo.part02.construtores.exemplo003.ExemploInstanciaObjeto
+aulasCollections/optionals/ExemploOptionalEstados.java
+ aulasCollections.optionals.ExemploOptionalEstados
 oo/part03/heranca/exemplo002/Veiculo.java
  aulas.oo.part03.heranca.exemplo002.Veiculo
 trabalhandoComDatas/javaDate/Exemplo002.java
  aulas.trabalhandoComDatas.javaDate.Exemplo002
-trabalhandoComDatas/javaCalendar/Exemplo006.java
- aulas.trabalhandoComDatas.javaCalendar.Exemplo006
 trabalhandoComDatas/javaLocalDate/Exemplo013.java
  aulas.trabalhandoComDatas.javaLocalDate.Exemplo013
 oo/part04/exemploEquals/exemplo001/Veiculo.java
  aulas.oo.part04.exemploEquals.exemplo001.Veiculo
-oo/part04/exemploHashCode/Veiculo.java
- aulas.oo.part04.exemploHashCode.Veiculo
+exerciciosCollections/exercicioComparators.java
+ exerciciosCollections.Estudante
+ exerciciosCollections.OrganizaPorNotas
+ exerciciosCollections.exercicioComparators
 oo/part03/encapsulamento/exemplo001/Pessoa.java
  oo.part03.encapsulamento.exemplo001.Pessoa
 exercicioCarros/Carro.java
  exercicioCarros.Carro
-oo/part04/exemploEquals/exemplo002/Carro.java
- aulas.oo.part04.exemploEquals.exemplo002.Carro
-trabalhandoComDatas/javaDate/Exemplo001.java
- aulas.trabalhandoComDatas.javaDate.Exemplo001
-trabalhandoComDatas/javaLocalDate/Exemplo014.java
- aulas.trabalhandoComDatas.javaLocalDate.Exemplo014
-oo/part04/exemploHashCode/Exemplo002.java
- aulas.oo.part04.exemploHashCode.Exemplo002
-trabalhandoComDatas/javaDate/Exemplo004.java
- aulas.trabalhandoComDatas.javaDate.Exemplo004
-trabalhandoComDatas/javaCalendar/Exemplo005.java
- aulas.trabalhandoComDatas.javaCalendar.Exemplo005
-oo/part03/heranca/exemplo002/Exemplo002.java
- aulas.oo.part03.heranca.exemplo002.Exemplo002
-oo/part04/exemploThis/Veiculo.java
- aulas.oo.part04.exemploThis.Veiculo
-oo/part03/heranca/exemplo002/Carro.java
- aulas.oo.part03.heranca.exemplo002.Carro
-oo/part04/exemploSuper/Veiculo.java
- aulas.oo.part04.exemploSuper.Veiculo
-oo/part04/exemploHashCode/Carro.java
- aulas.oo.part04.exemploHashCode.Carro
-oo/part02/construtores/exemplo001/ExemploInstanciaObjeto.java
- aulas.oo.part02.construtores.exemplo001.ExemploInstanciaObjeto
-oo/part03/heranca/exemplo001/Motocicleta.java
- aulas.oo.part03.heranca.exemplo001.Motocicleta
-oo/part03/heranca/exemplo001/Carro.java
- aulas.oo.part03.heranca.exemplo001.Carro
-trabalhandoComDatas/javaDateFormat/Exemplo008.java
- aulas.trabalhandoComDatas.javaDateFormat.Exemplo008
-oo/part04/exemploThis/Carro.java
- aulas.oo.part04.exemploThis.Carro
-exercicios/Porto.java
- exercicios.Porto
-exercicioHeranca/Supervisor.java
- exercicioHeranca.Supervisor
-exercicioHeranca/Funcionario.java
- exercicioHeranca.Funcionario
-exercicioHeranca/Gerente.java
- exercicioHeranca.Gerente
 exercicioHeranca/Caixa.java
  exercicioHeranca.Caixa
+exerciciosSet/exerciocioLinkedHashSet.java
+ exerciciosSet.exerciocioLinkedHashSet
+trabalhandoComDatas/javaCalendar/Exemplo005.java
+ aulas.trabalhandoComDatas.javaCalendar.Exemplo005
+aulasCollections/queue/ExampleLinkedList.java
+ aulasCollections.queue.ExampleLinkedList
+aulasCollections/comparators/Estudante.java
+ aulasCollections.comparators.Estudante
+exerciciosOptional/exercicioOptional.java
+ exerciciosOptional.exercicioOptional
+trabalhandoComDatas/javaDateFormat/Exemplo008.java
+ aulas.trabalhandoComDatas.javaDateFormat.Exemplo008
+exercicioMaps/HashMap.java
+ exercicioMaps.HashMap
+oo/part04/exemploEquals/exemplo001/Exemplo001.java
+ aulas.oo.part04.exemploEquals.exemplo001.Exemplo001
+exerciciosCollections/organizaFilmes.java
+ exerciciosCollections.organizaFilmes
+exerciciosCollections/Filmes.java
+ exerciciosCollections.Filmes
