@@ -12,16 +12,19 @@ public class AbreviaPalavra{
         int quantidadeDeAparicoesNovaPalavra;
         int quantidadeDeCaracteresPalavraAtual;
         int quantidadeDeAparicoesPalavraAtual;
-        String fraseMontada = "";
-        String palavraAtual = "";
+        String fraseMontada;
+        String palavraAtual;
 
         while (!".".equals(br.readLine())){
             StringTokenizer st = new StringTokenizer(br.readLine());
+            fraseEntrada.clear();
 
             while (st.hasMoreTokens()){ //Recebe a frase
                 fraseEntrada.add(st.nextToken());//separando a entrada em pedaços menores
             }
 
+            fraseMontada = ""; // zerando a rodada anterior
+            palavrasEscolhidas.clear();//limpando o map
             for (String palavra: fraseEntrada){
                 quantidadeDeCaracteresNovaPalavra = palavra.length();
                 quantidadeDeAparicoesNovaPalavra = Collections.frequency(fraseEntrada, palavra);
@@ -33,7 +36,7 @@ public class AbreviaPalavra{
                         if (palavrasEscolhidas.containsKey(palavra.charAt(0))) {
                             palavraAtual = palavrasEscolhidas.get(palavra.charAt(0));
 
-                            quantidadeDeCaracteresPalavraAtual = palavraAtual.length();// <<<isso tá errado
+                            quantidadeDeCaracteresPalavraAtual = palavraAtual.length();
                             quantidadeDeAparicoesPalavraAtual = Collections.frequency(fraseEntrada, palavraAtual);
 
                             //Se a nova palavra economiza mais palavras que a antiga a velha é removida e a nova adicionada
@@ -61,7 +64,11 @@ public class AbreviaPalavra{
                         fraseMontada = fraseMontada.concat(fraseEntrada.get(i) + " ");
                     }
                 } else {
-                    fraseMontada = fraseMontada.concat(fraseEntrada.get(i));
+                    if (palavrasEscolhidas.containsValue(fraseEntrada.get(i))){
+                        fraseMontada = fraseMontada.concat(fraseEntrada.get(i).charAt(0) + ".");
+                    } else {
+                        fraseMontada = fraseMontada.concat(fraseEntrada.get(i));
+                    }
                 }
             }
 
@@ -69,8 +76,6 @@ public class AbreviaPalavra{
             for (Map.Entry<Character, String> saida : palavrasEscolhidas.entrySet()){
                 System.out.println(saida.getKey() + ". = " + saida.getValue());
             }
-            fraseMontada = ""; // zerando a rodada anterior
-            palavrasEscolhidas.clear();//limpando o map
         }
     }
 }
