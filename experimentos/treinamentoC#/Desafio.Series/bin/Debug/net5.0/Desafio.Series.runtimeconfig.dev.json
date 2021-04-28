@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/lino/.dotnet/store/|arch|/|tfm|",
+      "/home/lino/.nuget/packages"
+    ]
+  }
+}
