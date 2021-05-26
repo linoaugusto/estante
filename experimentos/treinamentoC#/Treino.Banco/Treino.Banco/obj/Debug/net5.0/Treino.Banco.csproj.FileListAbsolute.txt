@@ -1,0 +1,16 @@
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/Treino.Banco
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/Treino.Banco.deps.json
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/Treino.Banco.runtimeconfig.json
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/Treino.Banco.runtimeconfig.dev.json
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/Treino.Banco.dll
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/ref/Treino.Banco.dll
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/bin/Debug/net5.0/Treino.Banco.pdb
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.AssemblyInfoInputs.cache
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.AssemblyInfo.cs
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.csproj.CoreCompileInputs.cache
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.dll
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/ref/Treino.Banco.dll
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.pdb
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.genruntimeconfig.cache
+/home/lino/workplace/estante/experimentos/treinamentoC#/Treino.Banco/Treino.Banco/obj/Debug/net5.0/Treino.Banco.csproj.AssemblyReference.cache
